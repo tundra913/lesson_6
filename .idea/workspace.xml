@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c3f4797-51aa-4b33-bd7d-5f7ad756d5b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/posibility/EatFood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/posibility/MakingSound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/posibility/Moving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/posibility/Swimmable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/sbrf/posibility/TreeClimber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/animals/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/animals/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/posibility/EatFood.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/posibility/MakingSound.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/posibility/Moving.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/posibility/Swimmable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ru/sbrf/posibility/TreeClimber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/lesson_6-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="refs/heads/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,7 +80,22 @@
       <option name="presentableId" value="Default" />
       <updated>1598027789510</updated>
     </task>
+    <task id="LOCAL-00001" summary="добавлен проект по лекции 6">
+      <created>1598030720505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598030720505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавлен проект по лекции 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлен проект по лекции 6" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1598029599895">
@@ -116,10 +106,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="691" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598030360903" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598030408524">
+    <state x="587" y="88" key="CommitChangelistDialog2" timestamp="1598030719605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598030408524" />
+    <state x="587" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1598030719605" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1598031400674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598031400674" />
     <state x="784" y="439" key="Github.CreateGistDialog" timestamp="1598030396727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -132,29 +126,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598030463219" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1598030113944">
+    <state width="670" height="266" key="GridCell.Tab.0.bottom" timestamp="1598032060034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598030113944" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1598030113943">
+    <state width="670" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598032060034" />
+    <state width="670" height="266" key="GridCell.Tab.0.center" timestamp="1598032060034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598030113943" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1598030113943">
+    <state width="670" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598032060034" />
+    <state width="670" height="266" key="GridCell.Tab.0.left" timestamp="1598032060034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598030113943" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1598030113943">
+    <state width="670" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598032060034" />
+    <state width="670" height="266" key="GridCell.Tab.0.right" timestamp="1598032060034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598030113943" />
+    <state width="670" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598032060034" />
+    <state x="766" y="240" key="RollbackChangesDialog" timestamp="1598031413932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598031413932" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1598030382259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598030382259" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598030737882">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598030737882" />
     <state x="616" y="242" width="672" height="677" key="run.anything.popup" timestamp="1598030033751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="242" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598030033751" />
+    <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1598031402860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1598031402860" />
   </component>
 </project>
